@@ -5,7 +5,7 @@ Sou formado em Engenharia Civil pela Universidade Federal de Uberlândia e comec
 Atualmente trabalho na L7 Construtora, no desenvolvimento do sistema de gerenciamento de obras da empresa.<br />
 
 #### Tecnologias
-Ordenadas por familiaridade<br /><br />
+Ordenadas por familiaridade, da maior para a menor<br /><br />
 <code><img height='30' src='https://github.com/Vtchoo/vtchoo/raw/main/tech/javascript.png' title='Javascript'></code>
 <code><img height='30' src='https://github.com/Vtchoo/vtchoo/raw/main/tech/typescript.png' title='Typescript'></code>
 <code><img height='30' src='https://github.com/Vtchoo/vtchoo/raw/main/tech/nodejs.png' title='NodeJS'></code>
