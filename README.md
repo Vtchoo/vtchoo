@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello World! 👋
+
+Meu nome é Victor e sou desenvolvedor full stack e mobile.<br />
+Sou formado em Engenharia Civil pela UFU e comecei a aprender programação no meu tempo livre durante o curso.<br />
+Atualmente trabalho na L7 Construtora, no desenvolvimento do sistema de gerenciamento de obras da empresa.<br />
+
+#### Tecnologias
+
 
 <!--
 **Vtchoo/vtchoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
