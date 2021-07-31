@@ -23,6 +23,10 @@ Ordenadas por familiaridade, da maior para a menor<br /><br />
 <code><img height='30' src='https://github.com/Vtchoo/vtchoo/raw/main/tech/vba.png' title='Visual Basic for Applications'></code>
 <code><img height='30' src='https://github.com/Vtchoo/vtchoo/raw/main/tech/next.png' title='NextJS'></code>
 
+#### Principais projetos
+
+<img src='projects.svg'>
+
 <!--
 **Vtchoo/vtchoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
