@@ -24,9 +24,15 @@ Ordenadas por familiaridade, da maior para a menor<br /><br />
 <code><img height='30' src='https://github.com/Vtchoo/vtchoo/raw/main/tech/next.png' title='NextJS'></code>
 
 #### Principais projetos
-**Gerenciador de obras**
+**Gerenciador de obras**<br/>
+Projeto desenvolvido para a L7 Construtora. Um sistema de gerenciamento de obras, abrangendo do diário de obras a análise financeira dos custos incorridos nas obras. Feito com NodeJS, MySQL, React, React Native e C# Windows Forms.<br />
+<img height='20' src='https://github.com/Vtchoo/vtchoo/raw/main/tech/github.png' title='Github'> Repositório privado</img>
 
-Projeto desenvolvido para a L7 Construtora. Um sistema de gerenciamento de obras, abrangendo do diário de obras a análise financeira dos custos incorridos nas obras. Feito com NodeJS, MySQL, React, React Native e C# Windows Forms.
+**Where Am I**<br/>
+Recriação do jogo GeoGuessr, em que o jogador deve adivinhar o local do mundo em que está com base em um Google Street View aleatório. Feito com Node, MySQL e React.<br/>
+[<img height='20' src='https://github.com/Vtchoo/vtchoo/raw/main/tech/github.png' title='Github'> Front-end</img>](https://github.com/vtchoo/whereami)<br/>
+[<img height='20' src='https://github.com/Vtchoo/vtchoo/raw/main/tech/github.png' title='Github'> Backend-end</img>](https://github.com/vtchoo/whereami-server)
+
 
 <!--
 **Vtchoo/vtchoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
