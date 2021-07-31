@@ -24,9 +24,9 @@ Ordenadas por familiaridade, da maior para a menor<br /><br />
 <code><img height='30' src='https://github.com/Vtchoo/vtchoo/raw/main/tech/next.png' title='NextJS'></code>
 
 #### Principais projetos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vtchoo&repo=whereami)](https://github.com/vtchoo/whereami)
+**Gerenciador de obras**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vtchoo&repo=SmartRace2)](https://vtchoo.github.io/SmartRace2)
+Projeto desenvolvido para a L7 Construtora. Um sistema de gerenciamento de obras, abrangendo do diário de obras a análise financeira dos custos incorridos nas obras. Feito com NodeJS, MySQL, React, React Native e C# Windows Forms.
 
 <!--
 **Vtchoo/vtchoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
