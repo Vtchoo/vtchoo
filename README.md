@@ -31,8 +31,17 @@ Projeto desenvolvido para a L7 Construtora. Um sistema de gerenciamento de obras
 **Where Am I**<br/>
 Recriação do jogo GeoGuessr, em que o jogador deve adivinhar o local do mundo em que está com base em um Google Street View aleatório. Feito com Node, MySQL e React.<br/>
 [<img height='20' src='https://github.com/Vtchoo/vtchoo/raw/main/tech/github.png' title='Github'> Front-end</img>](https://github.com/vtchoo/whereami)<br/>
-[<img height='20' src='https://github.com/Vtchoo/vtchoo/raw/main/tech/github.png' title='Github'> Backend-end</img>](https://github.com/vtchoo/whereami-server)
+[<img height='20' src='https://github.com/Vtchoo/vtchoo/raw/main/tech/github.png' title='Github'> Backend-end</img>](https://github.com/vtchoo/whereami-server)<br />
+<img height='20' src='https://github.com/Vtchoo/vtchoo/raw/main/tech/internet.png' title='Link direto'> Raramente disponível, entre em contato comigo para jogar</img>
 
+**Smart Race**<br />
+Jogo de inteligência artificial em que carros equipados com redes neurais aprendem a correr em uma pista aleatória ou criada pelo jogador. Feito com Javascript puro e a biblioteca p5 para renderização.<br/>
+[<img height='20' src='https://github.com/Vtchoo/vtchoo/raw/main/tech/github.png' title='Github'> Repositório</img>](https://github.com/vtchoo/smartRace2)<br/>
+[<img height='20' src='https://github.com/Vtchoo/vtchoo/raw/main/tech/internet.png' title='Link direto'> Rodar no navegador</img>](https://vtchoo.github.io/smartRace2)
+
+**Obra+**
+Aplicativo de cálculos simples de quantitativos e volumes para obras. Feito com CoronaSDK (atual Solar2D), escrito em Lua.<br />
+<img height='20' src='https://github.com/Vtchoo/vtchoo/raw/main/tech/github.png' title='Github'> Repositório privado</img>
 
 <!--
 **Vtchoo/vtchoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
