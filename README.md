@@ -3,6 +3,7 @@
 Meu nome é Victor e sou desenvolvedor full stack e mobile.<br />
 Sou formado em Engenharia Civil pela Universidade Federal de Uberlândia e comecei a aprender programação no meu tempo livre durante o curso.<br />
 Atualmente trabalho na L7 Construtora, no desenvolvimento do sistema de gerenciamento de obras da empresa.<br />
+Trabalho com desenvolvimento de sistemas desde Janeiro de 2020.<br />
 
 #### Tecnologias
 Ordenadas por familiaridade, da maior para a menor<br /><br />
@@ -59,7 +60,7 @@ Jogo de inteligência artificial em que carros equipados com redes neurais apren
 <img height='15' src='https://github.com/Vtchoo/vtchoo/raw/main/tech/corona.png' title='Corona SDK'> 
 <img height='15' src='https://github.com/Vtchoo/vtchoo/raw/main/tech/lua.png' title='Lua'>
 <br/>
-Aplicativo de cálculos simples de quantitativos e volumes para obras. Feito com CoronaSDK (atual Solar2D), escrito em Lua.<br />
+Aplicativo de cálculos simples de quantitativos e volumes para obras. Projeto desenvolvido para um trabalho da faculdade, pela disciplina de adminstração. Feito com CoronaSDK (atual Solar2D), escrito em Lua.<br />
 <img height='20' src='https://github.com/Vtchoo/vtchoo/raw/main/tech/github.png' title='Github'> Repositório privado</img>
 
 <!--
