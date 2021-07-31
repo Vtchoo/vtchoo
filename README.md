@@ -24,22 +24,41 @@ Ordenadas por familiaridade, da maior para a menor<br /><br />
 <code><img height='30' src='https://github.com/Vtchoo/vtchoo/raw/main/tech/next.png' title='NextJS'></code>
 
 #### Principais projetos
-**Gerenciador de obras**<br/>
-Projeto desenvolvido para a L7 Construtora. Um sistema de gerenciamento de obras, abrangendo do diário de obras a análise financeira dos custos incorridos nas obras. Feito com NodeJS, MySQL, React, React Native e C# Windows Forms.<br />
+**Gerenciador de obras** 
+<img height='15' src='https://github.com/Vtchoo/vtchoo/raw/main/tech/typescript.png' title='Typescript'> 
+<img height='15' src='https://github.com/Vtchoo/vtchoo/raw/main/tech/nodejs.png' title='NodeJS'> 
+<img height='15' src='https://github.com/Vtchoo/vtchoo/raw/main/tech/react.png' title='React'> 
+<img height='15' src='https://github.com/Vtchoo/vtchoo/raw/main/tech/react-native.png' title='React-Native'> 
+<img height='15' src='https://github.com/Vtchoo/vtchoo/raw/main/tech/mysql.png' title='MySQL'> 
+<img height='15' src='https://github.com/Vtchoo/vtchoo/raw/main/tech/csharp.png' title='C#'>
+<br/>
+Projeto desenvolvido para a L7 Construtora. Um sistema de gerenciamento de obras, abrangendo do diário de obras a análise financeira dos custos incorridos nas obras.<br />
 <img height='20' src='https://github.com/Vtchoo/vtchoo/raw/main/tech/github.png' title='Github'> Repositório privado</img>
 
-**Where Am I**<br/>
-Recriação do jogo GeoGuessr, em que o jogador deve adivinhar o local do mundo em que está com base em um Google Street View aleatório. Feito com Node, MySQL e React.<br/>
+**Where Am I**
+<img height='15' src='https://github.com/Vtchoo/vtchoo/raw/main/tech/typescript.png' title='Typescript'> 
+<img height='15' src='https://github.com/Vtchoo/vtchoo/raw/main/tech/nodejs.png' title='NodeJS'> 
+<img height='15' src='https://github.com/Vtchoo/vtchoo/raw/main/tech/react.png' title='React'> 
+<img height='15' src='https://github.com/Vtchoo/vtchoo/raw/main/tech/mysql.png' title='MySQL'>
+<br/>
+Recriação do jogo GeoGuessr, em que o jogador deve adivinhar o local do mundo em que está com base em um Google Street View aleatório. <br/>
 [<img height='20' src='https://github.com/Vtchoo/vtchoo/raw/main/tech/github.png' title='Github'> Front-end</img>](https://github.com/vtchoo/whereami)<br/>
 [<img height='20' src='https://github.com/Vtchoo/vtchoo/raw/main/tech/github.png' title='Github'> Backend-end</img>](https://github.com/vtchoo/whereami-server)<br />
 <img height='20' src='https://github.com/Vtchoo/vtchoo/raw/main/tech/internet.png' title='Link direto'> Raramente disponível, entre em contato comigo para jogar</img>
 
-**Smart Race**<br />
-Jogo de inteligência artificial em que carros equipados com redes neurais aprendem a correr em uma pista aleatória ou criada pelo jogador. Feito com Javascript puro e a biblioteca p5 para renderização.<br/>
+**Smart Race** 
+<img height='15' src='https://github.com/Vtchoo/vtchoo/raw/main/tech/javascript.png' title='Javascript'> 
+<img height='15' src='https://github.com/Vtchoo/vtchoo/raw/main/tech/neuralnet.png' title='Redes neurais'> 
+<img height='15' src='https://github.com/Vtchoo/vtchoo/raw/main/tech/p5.png' title='p5.js'> 
+<br />
+Jogo de inteligência artificial em que carros equipados com redes neurais aprendem a correr em uma pista aleatória ou criada pelo jogador. <br/>
 [<img height='20' src='https://github.com/Vtchoo/vtchoo/raw/main/tech/github.png' title='Github'> Repositório</img>](https://github.com/vtchoo/smartRace2)<br/>
 [<img height='20' src='https://github.com/Vtchoo/vtchoo/raw/main/tech/internet.png' title='Link direto'> Rodar no navegador</img>](https://vtchoo.github.io/smartRace2)
 
-**Obra+**
+**Obra+** 
+<img height='15' src='https://github.com/Vtchoo/vtchoo/raw/main/tech/corona.png' title='Corona SDK'> 
+<img height='15' src='https://github.com/Vtchoo/vtchoo/raw/main/tech/lua.png' title='Lua'>
+<br/>
 Aplicativo de cálculos simples de quantitativos e volumes para obras. Feito com CoronaSDK (atual Solar2D), escrito em Lua.<br />
 <img height='20' src='https://github.com/Vtchoo/vtchoo/raw/main/tech/github.png' title='Github'> Repositório privado</img>
 
