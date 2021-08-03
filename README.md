@@ -37,6 +37,13 @@ Ordenadas por familiaridade, da maior para a menor<br /><br />
 <img height='15' src='https://github.com/Vtchoo/vtchoo/raw/main/tech/mysql.png' title='MySQL'> 
 <img height='15' src='https://github.com/Vtchoo/vtchoo/raw/main/tech/csharp.png' title='C#'>
 <br/>
+<img height='70' src='https://github.com/Vtchoo/vtchoo/raw/main/images/l7obra/1 login.jpg' style='background-color: red'/> 
+<img height='70' src='https://github.com/Vtchoo/vtchoo/raw/main/images/l7obra/2 selecao obra.jpg' style='background-color: red'/> 
+<img height='70' src='https://github.com/Vtchoo/vtchoo/raw/main/images/l7obra/3 menu.jpg' style='background-color: red'/> 
+<img height='70' src='https://github.com/Vtchoo/vtchoo/raw/main/images/l7obra/4 diario de obra.jpg' style='background-color: red'/> 
+<img height='70' src='https://github.com/Vtchoo/vtchoo/raw/main/images/l7obra/5 diario de obra.jpg' style='background-color: red'/> 
+<img height='70' src='https://github.com/Vtchoo/vtchoo/raw/main/images/l7obra/6 fornecedores.jpg' style='background-color: red'/> 
+<br />
 Projeto desenvolvido para a L7 Construtora. Um sistema de gerenciamento de obras, abrangendo do diário de obras a análise financeira dos custos incorridos nas obras.<br />
 <img height='20' src='https://github.com/Vtchoo/vtchoo/raw/main/tech/github.png' title='Github'> Repositório privado</img>
 
