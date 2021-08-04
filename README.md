@@ -76,7 +76,11 @@ Jogo de inteligência artificial em que carros equipados com redes neurais apren
 **Obra+** 
 <img height='15' src='https://github.com/Vtchoo/vtchoo/raw/main/tech/corona.png' title='Corona SDK'> 
 <img height='15' src='https://github.com/Vtchoo/vtchoo/raw/main/tech/lua.png' title='Lua'>
-<br/>
+<br />
+<img height='70' src='https://github.com/Vtchoo/vtchoo/raw/main/images/obra+/1 traco.jpg' style='background-color: red'/> 
+<img height='70' src='https://github.com/Vtchoo/vtchoo/raw/main/images/obra+/2 alvenaria.jpg' style='background-color: red'/> 
+<img height='70' src='https://github.com/Vtchoo/vtchoo/raw/main/images/obra+/3 volumes.jpg' style='background-color: red'/> 
+<br />
 Aplicativo de cálculos simples de quantitativos e volumes para obras. Projeto desenvolvido para um trabalho da faculdade, pela disciplina de adminstração. Feito com CoronaSDK (atual Solar2D), escrito em Lua.<br />
 <img height='20' src='https://github.com/Vtchoo/vtchoo/raw/main/tech/github.png' title='Github'> Repositório privado</img>
 
