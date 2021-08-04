@@ -61,7 +61,7 @@ Projeto desenvolvido para a L7 Construtora. Um sistema de gerenciamento de obras
 <br />
 Recriação do jogo GeoGuessr, em que o jogador deve adivinhar o local do mundo em que está com base em um Google Street View aleatório. <br/>
 [<img height='20' src='https://github.com/Vtchoo/vtchoo/raw/main/tech/github.png' title='Github'> Front-end</img>](https://github.com/vtchoo/whereami)<br/>
-[<img height='20' src='https://github.com/Vtchoo/vtchoo/raw/main/tech/github.png' title='Github'> Backend-end</img>](https://github.com/vtchoo/whereami-server)<br />
+[<img height='20' src='https://github.com/Vtchoo/vtchoo/raw/main/tech/github.png' title='Github'> Backend</img>](https://github.com/vtchoo/whereami-server)<br />
 <img height='20' src='https://github.com/Vtchoo/vtchoo/raw/main/tech/internet.png' title='Link direto'> Raramente disponível, entre em contato comigo para jogar</img>
 
 **Smart Race** 
