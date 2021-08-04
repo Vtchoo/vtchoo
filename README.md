@@ -82,6 +82,12 @@ Jogo de inteligência artificial em que carros equipados com redes neurais apren
 Aplicativo de cálculos simples de quantitativos e volumes para obras. Projeto desenvolvido para um trabalho da faculdade, pela disciplina de adminstração. Feito com CoronaSDK (atual Solar2D), escrito em Lua.<br />
 <img height='20' src='https://github.com/Vtchoo/vtchoo/raw/main/tech/github.png' title='Github'> Repositório privado</img>
 
+**Programa de cálculo de vigas de concreto protendido - TCC** 
+<img height='15' src='https://github.com/Vtchoo/vtchoo/raw/main/tech/csharp.png' title='C#'> 
+<br />
+Programa de cálculo de dimensionamento de armaduras para vigas protendidas pré-tensionadas. Feito usando Windows Forms, em .NET C#, para o Trabalho de Conclusão do curso de Engenharia Civil na Universidade Federal de Uberlândia.<br />
+<img height='20' src='https://github.com/Vtchoo/vtchoo/raw/main/tech/github.png' title='Github'> Repositório privado</img>
+
 <!--
 **Vtchoo/vtchoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
