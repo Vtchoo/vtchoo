@@ -4,9 +4,7 @@
 [<code><img height='20' src='https://github.com/Vtchoo/vtchoo/raw/main/tech/gmail.png' title='Email' /></code>](mailto:victorlima.civ@gmail.com)
 
 Meu nome é Victor e sou desenvolvedor full stack e mobile.<br />
-Sou formado em Engenharia Civil pela Universidade Federal de Uberlândia e comecei a aprender programação a partir de 2015 no meu tempo livre durante o curso.<br />
-Atualmente trabalho na L7 Construtora, no desenvolvimento do sistema de gerenciamento de obras da empresa.<br />
-Trabalho com desenvolvimento de sistemas desde Janeiro de 2020.<br />
+Formado em Engenharia Civil, e programador desde janeiro de 2020<br />
 Falo inglês, nível avançado.<br/>
 
 #### Tecnologias
